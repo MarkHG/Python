@@ -1,0 +1,4 @@
+Pedro, 25, 8.49
+Juan, 23, 7.59
+Belem, 26, 8.89
+Patricia, 25, 9.69
